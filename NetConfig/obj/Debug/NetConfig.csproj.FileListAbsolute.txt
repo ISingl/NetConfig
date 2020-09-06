@@ -1,0 +1,10 @@
+C:\Users\ver-s\source\repos\NetConfig\NetConfig\bin\Debug\NetConfig.exe.config
+C:\Users\ver-s\source\repos\NetConfig\NetConfig\bin\Debug\NetConfig.exe
+C:\Users\ver-s\source\repos\NetConfig\NetConfig\bin\Debug\NetConfig.pdb
+C:\Users\ver-s\source\repos\NetConfig\NetConfig\obj\Debug\NetConfig.csprojResolveAssemblyReference.cache
+C:\Users\ver-s\source\repos\NetConfig\NetConfig\obj\Debug\NetConfig.Form1.resources
+C:\Users\ver-s\source\repos\NetConfig\NetConfig\obj\Debug\NetConfig.Properties.Resources.resources
+C:\Users\ver-s\source\repos\NetConfig\NetConfig\obj\Debug\NetConfig.csproj.GenerateResource.cache
+C:\Users\ver-s\source\repos\NetConfig\NetConfig\obj\Debug\NetConfig.csproj.CoreCompileInputs.cache
+C:\Users\ver-s\source\repos\NetConfig\NetConfig\obj\Debug\NetConfig.exe
+C:\Users\ver-s\source\repos\NetConfig\NetConfig\obj\Debug\NetConfig.pdb
